@@ -1,5 +1,8 @@
 # IRAA: A statistical tool for investigating a protein-protein interaction interface from multiple structures
 
+## Jaydeep Belapure, Marija Sorokina, Panagiotis L. Kastritis
+
+
 ![See the full article here.](https://doi.org/10.1002/pro.4523) (https://doi.org/10.1002/pro.4523)
 
 
