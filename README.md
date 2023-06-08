@@ -3,7 +3,7 @@
 ## Jaydeep Belapure, Marija Sorokina, Panagiotis L. Kastritis
 
 
-![See the full article here.](https://doi.org/10.1002/pro.4523) (https://doi.org/10.1002/pro.4523)
+![See the full article in Protein Science:](https://doi.org/10.1002/pro.4523) (https://doi.org/10.1002/pro.4523)
 
 
 It is a tool to assess protein interface of a any complex [AB] with components [A] and [B].
