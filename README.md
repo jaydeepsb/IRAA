@@ -37,3 +37,17 @@ You need to install freesasa and make sure it is added to the path, and availabl
 
 ![A GUI within ipynb](https://github.com/kastritislab/IRAA/blob/main/Screenshot_IRAA_GUI_within_notebook.png)
 
+# Citation:
+
+'''
+@article{belapure2023iraa,
+  title={IRAA: A statistical tool for investigating a protein--protein interaction interface from multiple structures},
+  author={Belapure, Jaydeep and Sorokina, Marija and Kastritis, Panagiotis L},
+  journal={Protein Science},
+  volume={32},
+  number={1},
+  pages={e4523},
+  year={2023},
+  publisher={Wiley Online Library}
+}
+'''
