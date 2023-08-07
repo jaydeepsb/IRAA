@@ -4,15 +4,18 @@
 
 *A GUI within ipynb*
 
+![A GUI within ipynb](https://github.com/kastritislab/IRAA/blob/main/Screenshot_IRAA_GUI_within_notebook.png)
+
+
 ![A GUI within ipynb](https://github.com/kastritislab/IRAA/blob/main/screen_shot_v2.gif)
-
-
-
-![See the full article in Protein Science:](https://doi.org/10.1002/pro.4523) (https://doi.org/10.1002/pro.4523)
 
 
 It is a tool to assess protein interface of a any complex [AB] with components [A] and [B].
 Multiple 3D structures of complex [AB] in the bound state, as well as multiple 3D structrues of the components [A] and [B] are combined together to identify and understand the properties of the interface residues.
+
+
+![See the full article in Protein Science:](https://doi.org/10.1002/pro.4523) (https://doi.org/10.1002/pro.4523)
+
 
 Github repos is structure as below:
 
@@ -35,8 +38,6 @@ Dependencies:
 - freesasa
 
 You need to install freesasa and make sure it is added to the path, and available in your python run session.
-
-![A GUI within ipynb](https://github.com/kastritislab/IRAA/blob/main/Screenshot_IRAA_GUI_within_notebook.png)
 
 # Citation:
 Please cite accordingly using (https://doi.org/10.1002/pro.4523) -
