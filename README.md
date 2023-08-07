@@ -9,6 +9,7 @@
 It is a tool to assess protein interface of a any complex [AB] with components [A] and [B].
 Multiple 3D structures of complex [AB] in the bound state, as well as multiple 3D structrues of the components [A] and [B] are combined together to identify and understand the properties of the interface residues.
 
+A Jupyter Notebook based GUI:
 ![A GUI within ipynb](https://github.com/kastritislab/IRAA/blob/main/Screenshot_IRAA_GUI_within_notebook.png)
 
 You can easily build the GUI within a jupyter notebook as shown below -
