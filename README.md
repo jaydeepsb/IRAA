@@ -39,7 +39,7 @@ You need to install freesasa and make sure it is added to the path, and availabl
 
 # Citation:
 
-'''
+```
 @article{belapure2023iraa,
   title={IRAA: A statistical tool for investigating a protein--protein interaction interface from multiple structures},
   author={Belapure, Jaydeep and Sorokina, Marija and Kastritis, Panagiotis L},
@@ -50,4 +50,4 @@ You need to install freesasa and make sure it is added to the path, and availabl
   year={2023},
   publisher={Wiley Online Library}
 }
-'''
+```
